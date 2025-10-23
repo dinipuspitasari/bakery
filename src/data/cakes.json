@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Red Velvet Slice",
+    "image": "/assets/redvelvet.jpg",
+    "description": "Potongan kue red velvet lembut dengan krim keju yang manis dan seimbang, memberikan sensasi rasa klasik khas kue Amerika.",
+    "details": {
+      "berat_bersih": "120 gram",
+      "ukuran": "10 cm x 5 cm x 4 cm",
+      "ketahanan_produk": "2 hari suhu ruang / 5 hari dalam kulkas",
+      "harga": 28000
+    }
+  },
+  {
+    "id": 2,
+    "name": "Lapis Legit Slice",
+    "image": "/assets/lapislegit.jpg",
+    "description": "Kue lapis legit tradisional dengan aroma rempah yang khas dan lapisan sempurna, dibuat dari mentega premium dan telur pilihan.",
+    "details": {
+      "berat_bersih": "130 gram",
+      "ukuran": "9 cm x 5 cm x 4 cm",
+      "ketahanan_produk": "5 hari suhu ruang / 7 hari dalam kulkas",
+      "harga": 32000
+    }
+  },
+  {
+    "id": 3,
+    "name": "Talas Cake Slice",
+    "image": "/assets/talas.jpg",
+    "description": "Kue talas lembut khas Bogor dengan aroma harum dan rasa manis alami dari talas pilihan, cocok untuk teman minum teh sore.",
+    "details": {
+      "berat_bersih": "125 gram",
+      "ukuran": "10 cm x 5 cm x 4 cm",
+      "ketahanan_produk": "3 hari suhu ruang / 6 hari dalam kulkas",
+      "harga": 25000
+    }
+  }
+]
